@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AllReach/static/css/main.8b7c2161.css",
+    "main.js": "/AllReach/static/js/main.271b8255.js",
+    "index.html": "/AllReach/index.html",
+    "main.8b7c2161.css.map": "/AllReach/static/css/main.8b7c2161.css.map",
+    "main.271b8255.js.map": "/AllReach/static/js/main.271b8255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b7c2161.css",
+    "static/js/main.271b8255.js"
+  ]
+}
