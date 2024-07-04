@@ -163,7 +163,7 @@ const UserForm = () => {
               <option value="Bengaluru">Bengaluru</option>
               <option value="Mangaluru">Mangaluru</option>
               <option value="Tumkuru">Tumkuru</option>
-              <option value="Mysuru">Mysuru</option>
+              <option value="Mysuru">Mysore</option>
             </select>
             {errors.city && <p className="error-message">{errors.city}</p>}
           </label>
